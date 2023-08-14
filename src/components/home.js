@@ -12,7 +12,7 @@ export const home = (onNavigate) => {
 
   const sinopsis = document.createElement('p');
   sinopsis.className = 'sinopsis';
-  sinopsis.textContent = 'Se trata de una app en la que es posible compartir canciones y álbumes con los contactos, que podrán escuchar usando cualquier servicio de streaming que tengan contratado, desde Spotify a Apple Music, pasando por Deezer y otros.Jamselect permite descubrir nuevos ritmos y hablar sobre ellos, crear un hilo de comentarios sobre cada canción compartida, siendo este su principal punto de ventaja con respecto a otras soluciones semejantes (como compartir una lista a través de un enlace, por ejemplo).';
+  sinopsis.textContent = 'Únete a MusiClub y deja que la música te conecte';
   contenedorHome.appendChild(sinopsis);
 
   const contenedorBotones = document.createElement('div');
