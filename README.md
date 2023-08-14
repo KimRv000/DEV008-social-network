@@ -33,9 +33,9 @@ Es una Single-page Application (SPA) que cuenta con una pantalla de inicio que t
 * Aplicar los conceptos de responsividad en el desarrollo de las vistas (templates)
 * Implementar un router para la navegación entre las diferentes vistas de la aplicación
 * Emplear un servicio externo para la persistencia de datos de la aplicación (Firebase)
-### Firebase
-- **Firebase Auth**
-- **Firestore**
+#### Firebase
+- *Firebase Auth*
+- *Firestore*
 
 ## 3. Consideraciones generales
 
@@ -87,6 +87,8 @@ y volver a cargar todo el sitio.
 * Se siguieron los lineamientos de Visual design.
 
 ## 4. Historias de usuario
+
+[Historias de Usuarios](historiasdeUsuarios.PNG)
 
 ### Diseño de la Interfaz de Usuario (prototipo de baja y alta fidelidad)
 
