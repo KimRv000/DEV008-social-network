@@ -1,7 +1,5 @@
 # MusiClub (Creando una Red Social)
 
-## Índice
-
 * [1. INTRODUCCIÓN](#1-introducción)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Consideraciones generales](#3-consideraciones-generales)
@@ -19,20 +17,20 @@ MusiClub es una red social creada para conectar gente a través de su gusto por 
 
 Es una Single-page Application (SPA) que cuenta con una pantalla de inicio que te da la opción de registrarte o iniciar sesión, en ambas opciones puedes ligar tu cuenta de google para acceder. Una vez iniciada la sesión te encontrarás el muro de las publicaciones donde aparecerá el email del usuario para identificarse en la parte superior de la página, encontraras un contenedor donde puedes escribir un post y debajo podrás ver las diferentes publicaciones creadas con respectivo correo de su autor para identificarlo. Podrás dar y quitar like a las publicaciones y también podrás editar y eliminar tus publicaciones.
 
-[Pantalla de inicio](musiClubinicio.PNG)
+![Pantalla de inicio](musiClubinicio.PNG)
 
-[Pantalla de registro](musiClubregistro.PNG)
+![Pantalla de registro](musiClubregistro.PNG)
 
-[Pantalla de inicio de sesión](musiClubinicioSesion.PNG)
+![Pantalla de inicio de sesión](musiClubinicioSesion.PNG)
 
-[Pantalla de registro](musiClubmuro.PNG)
+![Pantalla de registro](musiClubmuro.PNG)
 
 ### Los objetivos generales de este proyecto fueron los siguientes
 
-* Desarrollar una SPA con temática de red social
-* Aplicar los conceptos de responsividad en el desarrollo de las vistas (templates)
-* Implementar un router para la navegación entre las diferentes vistas de la aplicación
-* Emplear un servicio externo para la persistencia de datos de la aplicación (Firebase)
+* Desarrollar una SPA con temática de red social.
+* Aplicar los conceptos de responsividad en el desarrollo de las vistas.
+* Implementar un router para la navegación entre las diferentes vistas de la aplicación.
+* Emplear un servicio externo para la persistencia de datos de la aplicación (Firebase).
 #### Firebase
 - *Firebase Auth*
 - *Firestore*
@@ -88,14 +86,14 @@ y volver a cargar todo el sitio.
 
 ## 4. Historias de usuario
 
-[Historias de Usuarios](historiasdeUsuarios.PNG)
+![Historias de Usuarios](historiasdeUsuarios.PNG)
 
 ### Diseño de la Interfaz de Usuario (prototipo de baja y alta fidelidad)
 
-[Prototipo de baja fidelidad](bajaFid1.jpg)
+![Prototipo de baja fidelidad](bajaFid1.jpg)
 
-[Prototipo alta fidelidad 1](pantalla_1.jpg)
+![Prototipo alta fidelidad 1](pantalla_1.jpg)
 
-[Prototipo alta fidelidad 2](pantalla_2.jpg)
+![Prototipo alta fidelidad 2](pantalla_2.jpg)
 
-[Prototipo alta fidelidad 3](muro.png)
+![Prototipo alta fidelidad 3](muro.png)
